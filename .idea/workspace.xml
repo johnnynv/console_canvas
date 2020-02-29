@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CryptoCanvasChallenge.test:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0071160-b583-4b9e-af81-eb7a31a0cde9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQEwdWAee05rJ6ftUeEWKy1kvE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/test-artifacts" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.crypto.canvas.main" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\Java\Projects\CryptoCanvasChallenge\src\test\java\com\crypto\canvas" />
+      <recent name="D:\Study\Java\Projects\CryptoCanvasChallenge\src\main\java\com\crypto\canvas" />
+      <recent name="D:\Study\Java\Projects\CryptoCanvasChallenge\src\main\java\com\crypto\canvas\service" />
+      <recent name="D:\Study\Java\Projects\CryptoCanvasChallenge\src\main\java\com\crypto\canvas\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CryptoCanvasMain">
+    <configuration name="CanvasConsoleServiceTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crypto.canvas.service.CanvasConsoleServiceTestRunner" />
+      <module name="CryptoCanvasChallenge.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crypto.canvas.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanvasMainTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crypto.canvas.main.CanvasMainTestRunner" />
+      <module name="CryptoCanvasChallenge.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crypto.canvas.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanvasServiceTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crypto.canvas.service.CanvasServiceTestRunner" />
+      <module name="CryptoCanvasChallenge.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crypto.canvas.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoordinatesServiceTestRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crypto.canvas.service.CoordinatesServiceTestRunner" />
+      <module name="CryptoCanvasChallenge.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crypto.canvas.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CryptoCanvasMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.crypto.canvas.main.CryptoCanvasMain" />
+      <module name="CryptoCanvasChallenge.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crypto.canvas.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CryptoCanvasMain" />
+        <item itemvalue="Application.CanvasMainTestRunner" />
+        <item itemvalue="Application.CoordinatesServiceTestRunner" />
+        <item itemvalue="Application.CanvasServiceTestRunner" />
+        <item itemvalue="Application.CanvasConsoleServiceTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0071160-b583-4b9e-af81-eb7a31a0cde9" name="Default Changelist" comment="" />
+      <created>1580970157923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580970157923</updated>
+      <workItem from="1580970161872" duration="8475000" />
+      <workItem from="1581232053158" duration="1838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581146739001">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1581146739001" />
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581147467571">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1581147467571" />
+    <state x="594" y="162" key="FileChooserDialogImpl" timestamp="1581234200983">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="594" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581234200983" />
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom" timestamp="1581149426050">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581149426050" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center" timestamp="1581149426050">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581149426050" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left" timestamp="1581149426050">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581149426050" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right" timestamp="1581149426050">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581149426050" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1581147480267">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581147480267" />
+    <state x="209" y="30" key="new project wizard" timestamp="1581234218161">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="30" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1581234218161" />
+  </component>
+</project>
